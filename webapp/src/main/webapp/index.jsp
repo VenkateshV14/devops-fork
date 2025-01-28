@@ -1,5 +1,6 @@
 <form action="action_page.php">
   <div class="container">
+    <h2> Register here </h2>
     <h1>Fill your details if you believe in Jesus Christ...!</h1>
     <p>This form is the ticket to Heaven :) </p>
     <hr>
